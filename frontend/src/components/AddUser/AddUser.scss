@@ -1,0 +1,39 @@
+/* todo: delete file if not needed */
+.addUser{
+align-items: center;
+padding: 3rem;
+position:relative;
+width: 36.25rem;
+height: 40rem;
+left: 26.875rem;
+background: #FFFFFF;
+box-shadow: 0px 0px 30px rgba(209, 217, 230, 0.5);
+border-radius: 10px;
+}
+
+.addUserHeading{
+    width: 34rem;
+height: 1.7 rem;
+// margin-top: -3rem;
+font-style: normal;
+font-weight: 700;
+font-size: 1.125rem;
+line-height: 1.688rem;
+align-items: center;
+color: #193566;
+text-align: left;
+}
+
+
+label{
+    margin-top: 0.5rem;
+}
+
+.addUserBody{
+    color: #4F7194;
+}
+
+.btn-create{
+    margin-top: 0.7rem;
+    width: 10rem;
+}

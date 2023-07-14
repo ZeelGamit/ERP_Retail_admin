@@ -1,0 +1,24 @@
+.card-body{
+    width: 80%;
+
+    th {
+    padding: 2rem;
+    color: #97A7C3;
+
+}
+
+td{
+    padding: 2rem;
+    color: #193566;
+}
+}
+
+.couponcard{
+    .card-body{
+        width: 30%;
+    }
+
+    label{
+        justify-content: left !important;
+    }
+}

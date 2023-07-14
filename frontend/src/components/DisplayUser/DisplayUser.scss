@@ -1,0 +1,29 @@
+.card {
+  .usersCard {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .headerRight {
+    box-sizing: border-box;
+    flex-direction: row;
+    align-items: center;
+    background: #ffffff;
+    border: 1px solid #e4e9f2;
+    border-radius: 5px;
+    order: 1;
+
+    .SearchUser{
+      border:none;
+      box-sizing: border-box;
+    }
+  }
+
+      .headerLeft{
+      font-weight: 600;
+      color: #193566;
+      font-size:1.5rem;
+
+    }
+}
